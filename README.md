@@ -1,1 +1,1 @@
-# selecta
+# ng-selecta
